@@ -952,6 +952,10 @@
 #define CONF_GCLK_TC0_SRC GCLK_PCHCTRL_GEN_GCLK1_Val
 #endif
 
+#ifndef CONF_GCLK_TC1_SRC
+#define CONF_GCLK_TC1_SRC GCLK_PCHCTRL_GEN_GCLK0_Val
+#endif
+
 /**
  * \def CONF_GCLK_TC0_FREQUENCY
  * \brief TC0's Clock frequency

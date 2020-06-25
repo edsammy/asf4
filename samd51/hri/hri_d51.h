@@ -76,7 +76,7 @@
 #include <hri_sercom_d51.h>
 #include <hri_supc_d51.h>
 // #include <hri_tal_d51.h>
-// #include <hri_tc_d51.h>
+#include <hri_tc_d51.h>
 // #include <hri_tcc_d51.h>
 #include <hri_trng_d51.h>
 // #include <hri_usb_d51.h>
