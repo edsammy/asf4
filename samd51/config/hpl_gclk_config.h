@@ -235,7 +235,7 @@
 // <i> Indicates whether generic clock 3 configuration is enabled or not
 // <id> enable_gclk_gen_3
 #ifndef CONF_GCLK_GENERATOR_3_CONFIG
-#define CONF_GCLK_GENERATOR_3_CONFIG 0
+#define CONF_GCLK_GENERATOR_3_CONFIG 1
 #endif
 
 // <h> Generic Clock Generator Control
@@ -273,7 +273,7 @@
 // <i> Indicates whether Output Enable is enabled or not
 // <id> gclk_arch_gen_3_oe
 #ifndef CONF_GCLK_GEN_3_OE
-#define CONF_GCLK_GEN_3_OE 0
+#define CONF_GCLK_GEN_3_OE 1
 #endif
 
 // <q> Output Off Value
@@ -287,14 +287,14 @@
 // <i> Indicates whether Improve Duty Cycle is enabled or not
 // <id> gclk_arch_gen_3_idc
 #ifndef CONF_GCLK_GEN_3_IDC
-#define CONF_GCLK_GEN_3_IDC 0
+#define CONF_GCLK_GEN_3_IDC 1
 #endif
 
 // <q> Generic Clock Generator Enable
 // <i> Indicates whether Generic Clock Generator Enable is enabled or not
 // <id> gclk_arch_gen_3_enable
 #ifndef CONF_GCLK_GEN_3_GENEN
-#define CONF_GCLK_GEN_3_GENEN 0
+#define CONF_GCLK_GEN_3_GENEN 1
 #endif
 // </h>
 

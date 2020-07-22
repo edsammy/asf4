@@ -978,7 +978,7 @@
 #endif
 
 #ifndef CONF_GCLK_TC1_SRC
-#define CONF_GCLK_TC1_SRC GCLK_PCHCTRL_GEN_GCLK0_Val
+#define CONF_GCLK_TC1_SRC GCLK_PCHCTRL_GEN_GCLK3_Val
 #endif
 
 /**
